@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&height=80&duration=4000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Dalia+%F0%9F%91%8B;AI+%26+Robotics+Engineer;Tech+Content+Creator" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&height=80&duration=4000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Dalia+%F0%9F%91%8B;AI+%2F+NLP+Engineer;Arabic+NLP+%26+Transformer+Models;Robotics+Mentor+%7C+Tech+Content+Creator" alt="Typing SVG" /></a>
   <br><br>
   <p align="center">
     <a href="https://www.linkedin.com/in/dalia-al-kilani/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -14,13 +14,13 @@
   <tr>
     <td width="65%">
       <h2>🚀 About Me</h2>
-      <p>I build <b>intelligent systems</b> by combining <b>Artificial Intelligence, Computer Vision, and Robotics</b>, turning ideas into real-world applications using modern tools and scalable workflows.</p>
+      <p>I build <b>intelligent NLP systems for Arabic language</b>, combining <b>Transformer models, Computer Vision, and Robotics</b> — from fine-tuning to production deployment.</p>
       <b>🔭 Currently Focusing On:</b>
       <ul>
-        <li>🤖 AI (NLP (Text Classification & Computer Vision)</li>
-        <li>🦾 Robotics with Arduino & ESP32 & Raspberry pi</li>
-        <li>⚡ Building AI-powered real-time systems</li>
-        <li>🎨 Exploring AI content creation</li>
+        <li>🧠 Arabic NLP & Transformer Models (AraBERT, MARBERT)</li>
+        <li>🤖 Computer Vision & Real-time AI Systems</li>
+        <li>🦾 Robotics with Arduino & ESP32 & Raspberry Pi</li>
+        <li>🎨 AI Content Creation</li>
       </ul>
     </td>
     <td width="35%" align="center">
@@ -35,9 +35,11 @@
 
 <div align="center">
 
-<h4><b>🧠 AI / Machine Learning</b></h4>
+<h4><b>🧠 AI / NLP / Machine Learning</b></h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
@@ -45,7 +47,6 @@
   <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
 </p>
 
 <h4><b>🛠 Programming, Web & Databases</b></h4>
