@@ -186,19 +186,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daliaalkilani
-&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9F7AEA&icon_color=9F7AEA&text_color=ffffff" alt="GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dalia-alkilani&theme=tokyonight&hide_border=true&background=0d1117&ring=9F7AEA&fire=9F7AEA&currStreakLabel=9F7AEA" alt="GitHub Streak" height="165"/>
-</div>
-
-<br>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
