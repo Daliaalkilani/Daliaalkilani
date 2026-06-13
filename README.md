@@ -17,7 +17,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=dalia-alkilani&style=for-the-badge&color=9F7AEA" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Daliaalkilani&style=for-the-badge&color=9F7AEA" alt="Profile views"/>
 </div>
 
 <br>
@@ -47,7 +47,7 @@
     <td width="40%" align="center" valign="middle">
       <img src="d.gif" width="300" alt="Dalia caricature working on laptop with tech vibes"/>
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalia-alkilani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9F7AEA&text_color=ffffff" alt="Top Languages" width="280"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daliaalkilani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9F7AEA&text_color=ffffff" alt="Top Languages" width="280"/>
     </td>
   </tr>
 </table>
@@ -61,14 +61,14 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">🥉</td>
-      <td><b>3rd Place</b> — RFG Youth Robotics Competition</td>
-      <td><i>Dec 2023</i></td>
-    </tr>
-    <tr>
       <td align="center">🏅</td>
       <td><b>Honorable Mention</b> — ICPC Africa & Arab Girls Contest</td>
       <td><i>Jul 2023</i></td>
+    </tr>
+    <tr>
+      <td align="center">🥉</td>
+      <td><b>3rd Place</b> — RFG Youth Robotics Competition</td>
+      <td><i>Dec 2023</i></td>
     </tr>
     <tr>
       <td align="center">🥈</td>
@@ -180,6 +180,18 @@
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
 </p>
 
+</div>
+
+<br>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daliaalkilani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9F7AEA&icon_color=9F7AEA&text_color=ffffff" alt="GitHub Stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daliaalkilani&theme=tokyonight&hide_border=true&background=0d1117&ring=9F7AEA&fire=9F7AEA&currStreakLabel=9F7AEA" alt="GitHub Streak" height="165"/>
 </div>
 
 <br>
