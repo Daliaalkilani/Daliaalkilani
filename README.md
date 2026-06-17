@@ -15,6 +15,12 @@
     <a href="mailto:Daliaalkelani@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+    <a href="https://daliaalkilani.github.io/Portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-ff006e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://daliaalkilani.github.io/dalia-alkilani-resume/">
+      <img src="https://img.shields.io/badge/Resume-8338ec?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
+    </a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=Daliaalkilani&style=for-the-badge&color=9F7AEA" alt="Profile views"/>
