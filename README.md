@@ -23,7 +23,6 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Daliaalkilani&style=for-the-badge&color=9F7AEA" alt="Profile views"/>
 </div>
 
 <br>
