@@ -33,7 +33,7 @@
     <td width="60%" valign="top">
       <h2>🚀 About Me</h2>
       <p>
-        I build <b>intelligent NLP systems for the Arabic language</b> — fine-tuning Transformer models like <b>AraBERT</b> and <b>MARBERT</b> and deploying them into production environments.
+        I build <b>intelligent NLP systems for the Arabic language</b> — fine-tuning Transformers models and deploying them into production environments.
       </p>
       <p>
         My work spans the full pipeline: from data collection and preprocessing, to model training, evaluation, and API deployment with FastAPI. I also work with Computer Vision and Embedded Systems — giving me a full-stack AI perspective.
